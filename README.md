@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkBlatnik
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML, CSS, JS.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
